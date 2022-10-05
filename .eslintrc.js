@@ -38,7 +38,8 @@ module.exports = {
         'no-shadow': 'off',
         'import/extensions': 'off',
         'no-underscore-dangle': 'off',
-        'max-len': ['error', { ignoreComments: true }],
+        'max-len': ['error', { ignoreComments: true, code: 100 }],
+        'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
     },
     globals: {
         __IS_DEV__: true,
