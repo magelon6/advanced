@@ -25,5 +25,5 @@ jobs:
         run: npx run lint:ts
       - name: lint CSS files
         run: npx run lint:scss
-      - name: run unit test
+      - name: unit test
         run: npx run test:unit
