@@ -10,6 +10,7 @@
 
 # production
 /build
+/storybook-static
 
 # misc
 .DS_Store
@@ -26,3 +27,7 @@ yarn-error.log*
 ./idea
 ../.idea
 ../../.idea
+
+#loki 
+./loki/report.html
+./loki/report.json

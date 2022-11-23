@@ -1,5 +1,4 @@
 import { RouteProps } from 'react-router-dom';
-// import {MainPage} from "src/pages/MainPage";
 import { AboutPage } from 'pages/AboutPage';
 import { MainPage } from 'pages/MainPage';
 import { NotFoundPage } from 'pages/NotFoundPage';
