@@ -27,3 +27,7 @@ yarn-error.log*
 ./idea
 ../.idea
 ../../.idea
+
+#loki 
+./loki/report.html
+./loki/report.json
