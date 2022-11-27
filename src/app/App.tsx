@@ -7,7 +7,7 @@ import { Sidebar } from 'widgets/Sidebar';
 
 function App() {
     const { theme } = useTheme();
-
+    // wda
     return (
         <div className={classNames('app', {}, [theme])}>
             <Suspense fallback="">
