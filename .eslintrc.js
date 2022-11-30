@@ -53,6 +53,7 @@ module.exports = {
         'import/no-extraneous-dependencies': ['error', {
             devDependencies: true,
         }],
+        'no-param-reassign': 'off',
     },
     globals: {
         __IS_DEV__: true,
