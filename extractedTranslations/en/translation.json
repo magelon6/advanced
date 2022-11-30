@@ -13,5 +13,7 @@
   "Переключить": "",
   "Произошла ошибка": "Произошла ошибка",
   "Страница не найдена": "Page not found",
-  "Язык": "Language"
+  "Язык": "Language",
+  "increment": "increment",
+  "decrement": "decrement"
 }
