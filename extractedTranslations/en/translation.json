@@ -2,6 +2,8 @@
   "": "",
   "O": "",
   "Throw error": "Throw error",
+  "decrement": "decrement",
+  "increment": "increment",
   "lorem awdla kwdj u wb uw iadbkj ba waudh awduawdd awd wuwdwdd wbd ahb mhbmhbmhb awdawd": "lorem awdla kwdj u wb uw iadbkj ba waudh awduawdd awd wuwdwdd wbd ahb mhbmhbmhb awdawd",
   "{children})}\n        </Link>\n    );\n};\n": "{children})}\n        </Link>\n    );\n};\n",
   "Войти": "Войти",
@@ -13,7 +15,5 @@
   "Переключить": "",
   "Произошла ошибка": "Произошла ошибка",
   "Страница не найдена": "Page not found",
-  "Язык": "Language",
-  "increment": "increment",
-  "decrement": "decrement"
+  "Язык": "Language"
 }
